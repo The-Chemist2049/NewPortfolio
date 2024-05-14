@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["a Realtor", "a Connector", "a Curator", "a Director", "an Administrator"],
+        strings: [" a Realtor", " a Connector", " a Curator", " a Director", " an Administrator"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
