@@ -450,12 +450,12 @@ section .title::after{
 
 /* contact section styling */
 .contact {
-    background: #000; /* Change this line to set the background color to black */
+    background: #111; /* Change this line to set the background color to black */
     color: white;
 }
 .contact .title::after{
     content: "get in touch";
-    background: black;
+    background: #111;
     color: white;
 }
 .contact .contact-content .column{
